@@ -1,5 +1,7 @@
 # Sampling through Generative Art
 
+<img width="396" height="293" alt="Alex_example_generative_art" src="https://github.com/user-attachments/assets/358c4cb2-39aa-4199-b63c-86e10879e496" />
+
 ## Concept
 
 This project expands the concept of sampling, which originated from a musical practice where musicians mixed and matched "samples" of pre-existing music to create distinct results. This project extends that practice across mediums: audio is reinterpreted by Stable Diffusion into generative art, and then translated back to audio. Machine learning systems treat audio and images as interchangeable data—arrays that can be reshaped and reinterpreted. This system exploits that property to create a translation chain where unexpected meaning emerges through gaps in conversion.
