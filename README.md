@@ -1,7 +1,11 @@
 # Sampling through Generative Art
 
-<img width="396" height="293" alt="Alex_example_generative_art" src="https://github.com/user-attachments/assets/358c4cb2-39aa-4199-b63c-86e10879e496" />
-<img width="400" height="296" alt="generative_art_from_alex_lee_sound_collage wav_at_20251119_004446" src="https://github.com/user-attachments/assets/c2f3592a-29b6-4cef-87c3-c091215cfe9b" />
+<img width="400" height="auto" alt="Alex_example_generative_art" src="https://github.com/user-attachments/assets/358c4cb2-39aa-4199-b63c-86e10879e496" />
+<img width="400" height="auto" alt="generative_art_from_alex_lee_sound_collage wav_at_20251119_004446" src="https://github.com/user-attachments/assets/c2f3592a-29b6-4cef-87c3-c091215cfe9b" />
+<img width="400" height="auto" alt="Screenshot 2025-12-12 at 23 16 14" src="https://github.com/user-attachments/assets/16794d56-73a9-4390-ac4a-edb9f92f5099" />
+<img width="400" height="auto" alt="Screenshot 2025-12-13 at 02 06 47" src="https://github.com/user-attachments/assets/94fdbc94-b4ba-4d36-a27b-39c027a796cb" />
+
+
 
 
 ## Concept
