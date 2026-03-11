@@ -4,9 +4,9 @@
 <img width="400" height="auto" alt="generative_art_from_alex_lee_sound_collage wav_at_20251119_004446" src="https://github.com/user-attachments/assets/c2f3592a-29b6-4cef-87c3-c091215cfe9b" />
 <img width="400" height="auto" alt="Screenshot 2025-12-12 at 23 16 14" src="https://github.com/user-attachments/assets/16794d56-73a9-4390-ac4a-edb9f92f5099" />
 <img width="400" height="auto" alt="Screenshot 2025-12-13 at 02 06 47" src="https://github.com/user-attachments/assets/94fdbc94-b4ba-4d36-a27b-39c027a796cb" />
-
-
-
+<img width="400" height="296" alt="generative_art_from_alex_lee_sound_collage wav_at_20251119_004926" src="https://github.com/user-attachments/assets/63e246e6-a6c3-4b14-b7de-3fc22c745106" />
+<img width="400" height="296" alt="generative_art_from_alex_lee_sound_collage wav_at_20251119_004937" src="https://github.com/user-attachments/assets/d56f6d10-3ea4-4ee6-b105-cfd70528c217" />
+<img width="400" height="296" alt="generative_art_from_alex_lee_sound_collage wav_at_20251119_004944" src="https://github.com/user-attachments/assets/0ed5eaac-2290-4625-8bc7-1226a2ee7321" />
 
 ## Concept
 
